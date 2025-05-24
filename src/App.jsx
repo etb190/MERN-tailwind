@@ -1,7 +1,7 @@
-import Signup from './Signup'
+
 function App() {
   return (
-  < Signup />
+  <div>df</div>
 )
 }
 export default App
